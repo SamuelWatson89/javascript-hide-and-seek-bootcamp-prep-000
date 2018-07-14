@@ -7,5 +7,5 @@ function nestedTarget(div) {
 }
 
 function increaseRankBy(n) {
-  
+  return get
 }
